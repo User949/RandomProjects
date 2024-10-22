@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  CreditCardAccount.cpp
+  CreditOrganizer.cpp
+  LoyaltyScheme.cpp
+  Generating Code...
+C:\Users\JoJo\Proiecte\ProiectCpp\CreditOrganizer\CreditOrganizer\LoyaltyScheme.cpp(30,15): warning C4552: '-': result of expression not used
+  (compiling source file '/LoyaltyScheme.cpp')
+  
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CreditOrganizer.vcxproj -> C:\Users\JoJo\Proiecte\ProiectCpp\CreditOrganizer\x64\Debug\CreditOrganizer.exe

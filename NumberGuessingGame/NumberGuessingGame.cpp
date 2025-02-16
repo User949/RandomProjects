@@ -93,7 +93,7 @@ int main()
                     cout << "Incorrect! The number is less than " << myNumber << ".\n\n";
                 else if (myNumber == randomNumber)
                 {
-                    cout << "Congratulations! You guessed the correct number in " << 10 - i + 1 << " attempts.\n\n";
+                    cout << "Congratulations! You guessed the correct number in " << 5 - i + 1 << " attempts.\n\n";
                     hasFound = true;
                     playAgain();
                     break;
@@ -125,7 +125,7 @@ int main()
                     cout << "Incorrect! The number is less than " << myNumber << ".\n\n";
                 else if (myNumber == randomNumber)
                 {
-                    cout << "Congratulations! You guessed the correct number in " << 10 - i + 1 << " attempts.\n\n";
+                    cout << "Congratulations! You guessed the correct number in " << 3 - i + 1 << " attempts.\n\n";
                     hasFound = true;
                     playAgain();
                     break;
